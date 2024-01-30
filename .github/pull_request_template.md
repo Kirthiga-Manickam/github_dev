@@ -1,6 +1,8 @@
-### Summary
+### Description of PR
 _Provide an overview_
-### Details
+### Details of changes done
 _Enter details_
-### Ticket number
+### Referenced Ticket number
 _Enter ticket number here_
+
+
