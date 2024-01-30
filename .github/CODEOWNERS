@@ -1,5 +1,2 @@
-# Default reviewers/codeowners for all code changes
-* @salaselva
-
-# reviewer by email for htl files
-*.html salaselva003@gmail.com
+# Default reviewers/code owners for all code changes
+* @Salaselva
